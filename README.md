@@ -81,7 +81,7 @@ $ motto
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/kavinbalaji2005/kavinbalaji2005/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/kavinbalaji2005/kavinbalaji2005/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- Divider -->
