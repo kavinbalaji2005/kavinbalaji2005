@@ -25,7 +25,7 @@ $ whoami
 > Kavin Balaji
 
 $ cat interests.txt
-> Full Stack Dev, Cloud, IoT, Embedded Projects
+> Full Stack Dev, Cloud, IoT
 
 $ top -u kavin
 > 99% CPU on Learning | 1% Sleep
