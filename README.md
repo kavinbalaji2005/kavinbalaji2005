@@ -18,7 +18,7 @@
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
 
-## 👨‍💻 About Me
+## About Me
 
 ```bash
 $ whoami
@@ -37,7 +37,7 @@ $ motto
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="filter: drop-shadow(0 0 6px #FF7F50);" />
@@ -55,7 +55,7 @@ $ motto
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
 
-## 🧠 Tech Workflow
+## Tech Workflow
 
 - 🖥️ Frontend: `HTML` • `CSS` • `JavaScript` • `React.js`  
 - 🧰 Backend: `Node.js` • `Express.js` • `MongoDB` • `MySQL`  
@@ -65,7 +65,7 @@ $ motto
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavinbalaji2005&show_icons=true&count_private=true&theme=nightowl" />
@@ -78,7 +78,7 @@ $ motto
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
 
-## 🐍 Contribution Snake
+## Contribution Heatmap
 
 <p align="center">
   <img src="https://github.com/kavinbalaji2005/kavinbalaji2005/blob/output/github-contribution-grid-snake.svg" />
@@ -87,7 +87,7 @@ $ motto
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavin-balaji-745a87290" target="_blank">
