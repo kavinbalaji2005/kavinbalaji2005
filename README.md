@@ -46,9 +46,9 @@ $ motto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="filter: drop-shadow(0 0 6px #61DBFB);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="filter: drop-shadow(0 0 6px #8BC34A);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: drop-shadow(0 0 6px white);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" style="filter: drop-shadow(0 0 6px #4DB33D);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" style="filter: drop-shadow(0 0 6px #00758F);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="filter: drop-shadow(0 0 6px #FF7F50);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="filter: drop-shadow(0 0 6px #306998);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" style="filter: drop-shadow(0 0 6px #00758F);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" style="filter: drop-shadow(0 0 6px #FF9900);" />
 </p>
 
