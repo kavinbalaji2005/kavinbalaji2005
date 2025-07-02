@@ -1,6 +1,6 @@
-<!-- 🔵 Night Owl Banner Header -->
+<!-- 🔵 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F,003366,005577&height=200&section=header&text=Kavin%20Balaji&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cloud%20Explorer&descSize=20&animation=fadeIn" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F,003366,005577&height=200&section=header&text=Kavin%20Balaji&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cloud%20Explorer&descSize=20&animation=fadeIn&background=22223B" />
 </p>
 
 <!-- 🔵 Typing Intro -->
