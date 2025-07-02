@@ -68,11 +68,11 @@ $ motto
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinbalaji2005&show_icons=true&count_private=true&theme=nightowl" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinbalaji2005&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavinbalaji2005&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinbalaji2005&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinbalaji2005&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavinbalaji2005" />
 </p>
 
 <!-- Divider -->
