@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F,003366,005577&height=200&section=header&text=Kavin%20Balaji&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Cloud%20Explorer&descSize=20&animation=fadeIn" />
 </p>
 
-<!-- 🔵 Avatar with Dark Glow Frame -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/129603485?v=4" width="160" style="border-radius: 50%; box-shadow: 0 0 20px 5px #00CED1;" />
-</p>
-
 <!-- 🔵 Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Logs+more+time+with+machines+than+with+people." alt="Typing SVG" />
@@ -101,17 +96,4 @@ $ motto
   <a href="mailto:kavinbalaji@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="42" style="filter: drop-shadow(0 0 6px #D14836); margin: 0 25px;" />
   </a>
-  <a href="https://github.com/kavinbalaji2005" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" style="filter: drop-shadow(0 0 6px #F8F8F8); margin: 0 25px;" />
-  </a>
-</p>
-
-<!-- 🦖 Dino Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" height="150"/>
-</p>
-
-<!-- Night Owl Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F,003366,005577&height=120&section=footer"/>
 </p>
