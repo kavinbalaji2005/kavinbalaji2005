@@ -25,10 +25,7 @@ $ whoami
 > Kavin Balaji
 
 $ cat interests.txt
-> Full Stack Dev, Cloud, IoT
-
-$ top -u kavin
-> 99% CPU on Learning | 1% Sleep
+> Web Development, Cloud Computing, IoT
 
 $ motto
 > Real programmers count from 0.
@@ -58,9 +55,9 @@ $ motto
 ## Tech Workflow
 
 - 🖥️ Frontend: `HTML` • `CSS` • `JavaScript` • `React.js`  
-- 🧰 Backend: `Node.js` • `Express.js` • `MongoDB` • `MySQL`  
+- 🧰 Backend: `Node.js` • `Express.js`  • `MySQL`  
 - ☁️ Cloud: `AWS`  
-- 🔩 Hardware: `IoT`, `Embedded Systems`
+- 🔩 Hardware: `Embedded Systems`, `Microcontrollers`
 
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=001F3F,003366,005577&height=2" />
